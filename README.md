@@ -23,6 +23,14 @@ A complete implementation of **Proximal Policy Optimization (PPO)** to land a ro
 
 ---
 
+## 📸 Demo
+
+![Lunar Lander Demo](assets/lunarlander.gif)
+
+> _A trained PPO agent successfully landing the rocket in LunarLander-v2._
+
+---
+
 ## 🔍 PPO Algorithm Summary
 
 PPO is a powerful policy gradient algorithm that combines:
