@@ -1,7 +1,5 @@
 ![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
 ![License](https://img.shields.io/github/license/GBR-RL/PPO-LunarLander)
-![Stars](https://img.shields.io/github/stars/GBR-RL/PPO-LunarLander?style=social)
-![Forks](https://img.shields.io/github/forks/GBR-RL/PPO-LunarLander?style=social)
 ![Last Commit](https://img.shields.io/github/last-commit/GBR-RL/PPO-LunarLander)
 # PPO LunarLander — Reinforcement Learning with PyTorch
 
