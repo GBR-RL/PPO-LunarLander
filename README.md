@@ -1,10 +1,15 @@
-# 🚀 PPO LunarLander — Reinforcement Learning with PyTorch
+![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
+![License](https://img.shields.io/github/license/GBR-RL/PPO-LunarLander)
+![Stars](https://img.shields.io/github/stars/GBR-RL/PPO-LunarLander?style=social)
+![Forks](https://img.shields.io/github/forks/GBR-RL/PPO-LunarLander?style=social)
+![Last Commit](https://img.shields.io/github/last-commit/GBR-RL/PPO-LunarLander)
+# PPO LunarLander — Reinforcement Learning with PyTorch
 
 A complete implementation of **Proximal Policy Optimization (PPO)** to land a rocket on the moon 🌝 using the **LunarLander-v2** environment from OpenAI Gym. This project includes full training, debugging, and enhancement of a faulty PPO pipeline — corrected, improved, and evaluated with advanced techniques like **GAE**, **advantage normalization**, and **value loss clipping**.
 
 ---
 
-## 🧠 What This Project Does
+## What This Project Does
 
 - ✅ Implements PPO using PyTorch
 - ✅ Fixes multiple bugs in a broken baseline code
