@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.dll
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints
+
+# Environment files
+.env
+.venv/
+env/
+venv/
+
+# Python egg info
+*.egg-info/
+dist/
+build/
+
+# Logs and TensorBoard
+logs/
+wandb/
+*.log
+
+# Model weights
+models/*.pt
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# OS-generated files
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# Jupyter Runtime
+~$*
+*.bak
