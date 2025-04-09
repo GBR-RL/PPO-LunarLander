@@ -10,10 +10,9 @@ A complete implementation of **Proximal Policy Optimization (PPO)** to land a ro
 
 ---
 
-## What This Project Does
+## What This Code Does
 
 - ✅ Implements PPO using PyTorch
-- ✅ Fixes multiple bugs in a broken baseline code
 - ✅ Adds advanced PPO refinements:
   - Generalized Advantage Estimation (GAE)
   - Advantage Normalization
